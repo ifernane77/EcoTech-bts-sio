@@ -60,3 +60,4 @@ Il pourra aussi alimenter certaines preuves de l’épreuve E5 grâce au context
 | Semaine | Travail réalisé | Statut |
 |---|---|---|
 | Semaine 1 | Cadrage du projet, contexte entreprise, expression du besoin, objectifs et backlog initial | Terminé |
+| Semaine 2 | Analyse des acteurs, des flux, du stockage actuel et préparation des questions au gérant | Terminé |
