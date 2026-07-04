@@ -90,3 +90,49 @@ J’ai produit une première cartographie des flux qui servira ensuite pour la c
 - questions-gerant.md
 - capture du schéma Mermaid sur GitHub
 - capture du commit Git
+
+## Semaine 3 — Cas d’utilisation et architecture applicative
+
+### Objectif de la semaine
+
+L’objectif de cette semaine était de définir les principaux cas d’utilisation de l’application EcoTech Suivi Chantier.
+
+Ce travail permet de préparer la conception fonctionnelle de l’application avant de passer aux maquettes, au modèle de données et au développement.
+
+### Travail réalisé
+
+- Rédaction des cas d’utilisation principaux.
+- Identification des acteurs concernés.
+- Création d’un diagramme simplifié des cas d’utilisation.
+- Rédaction de l’architecture applicative prévue.
+- Justification des rôles : administrateur, gérant et employé.
+- Mise à jour de la documentation du projet.
+
+### Cas d’utilisation rédigés
+
+- Créer un client.
+- Créer un chantier.
+- Ajouter un document PDF.
+- Ajouter une photo de chantier.
+- Enregistrer une intervention.
+- Générer un rapport PDF.
+
+### Difficultés rencontrées
+
+La difficulté principale a été de garder un périmètre réaliste. Certaines fonctionnalités pourraient être plus avancées, mais j’ai choisi de conserver une version simple et adaptée au BTS SIO SLAM.
+
+### Résultat obtenu
+
+Le projet dispose maintenant d’une base fonctionnelle plus claire. Les cas d’utilisation vont servir à préparer les maquettes, le MCD, la base de données et les pages PHP.
+
+### Preuves produites
+
+- cas-utilisation.md
+- diagramme-cas-utilisation.md
+- architecture-application.md
+- capture du diagramme sur GitHub
+- capture du commit Git
+
+### Lien avec le BTS SIO
+
+Cette semaine est liée à l’épreuve E6 SLAM, car elle prépare la conception d’une solution applicative.
