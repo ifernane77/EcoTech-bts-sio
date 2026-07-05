@@ -63,3 +63,4 @@ Il pourra aussi alimenter certaines preuves de l’épreuve E5 grâce au context
 | Semaine 2 | Analyse des acteurs, des flux, du stockage actuel et préparation des questions au gérant | Terminé |
 | Semaine 3 | Rédaction des cas d’utilisation, diagramme et architecture applicative prévue | Terminé |
 | Semaine 4 | Préparation de l’environnement technique, documentation d’installation, dossiers documents/photos et conventions de nommage | Terminé |
+| Semaine 5 | Conception du modèle de données : MCD brouillon, MLD brouillon, dictionnaire de données et règles de gestion | Terminé |

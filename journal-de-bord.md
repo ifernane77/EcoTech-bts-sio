@@ -175,3 +175,46 @@ Le développement PHP, la base de données et les tests locaux seront réalisés
 ### Lien avec le BTS SIO
 
 Cette semaine prépare l’épreuve E6 SLAM car elle organise l’environnement nécessaire au futur développement de l’application.
+
+## Semaine 5 — Conception du modèle de données
+
+### Objectif de la semaine
+
+L’objectif de cette semaine était de préparer le modèle de données du projet EcoTech Suivi Chantier.
+
+Cette étape permet d’identifier les futures tables nécessaires avant la création de la base MySQL.
+
+### Travail réalisé
+
+- Création d’un MCD brouillon.
+- Création d’un MLD brouillon.
+- Rédaction d’un dictionnaire de données.
+- Rédaction des règles de gestion.
+- Identification des principales entités : utilisateurs, rôles, clients, chantiers, statuts, documents, photos et interventions.
+- Mise à jour de la documentation du projet.
+
+### Difficultés rencontrées
+
+La difficulté principale a été de rester simple et de ne pas prévoir trop de tables.
+
+J’ai choisi un modèle adapté à une première version BTS SIO SLAM, avec uniquement les données nécessaires au suivi de chantier.
+
+### Résultat obtenu
+
+Le projet dispose maintenant d’une première conception de base de données.
+
+Cette conception servira ensuite à créer le script SQL et à développer les premières fonctionnalités de l’application.
+
+### Preuves produites
+
+- `database/mcd-brouillon.md`
+- `database/mld-brouillon.md`
+- `database/dictionnaire-donnees.md`
+- `database/regles-gestion.md`
+- capture du diagramme Mermaid
+- capture GitHub
+- commit Git
+
+### Lien avec le BTS SIO
+
+Cette semaine est liée à l’épreuve E6 SLAM, car elle prépare la conception de la solution applicative et la future gestion des données.
