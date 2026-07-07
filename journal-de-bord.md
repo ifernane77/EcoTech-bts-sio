@@ -265,3 +265,49 @@ Ces maquettes serviront de base pour développer les futures pages PHP de l’ap
 ### Lien avec le BTS SIO
 
 Cette semaine est liée à l’épreuve E6 SLAM, car elle prépare la conception de l’interface et des fonctionnalités de l’application.
+
+## Semaine 7 — Préparation de la structure applicative
+
+### Objectif de la semaine
+
+L’objectif de cette semaine était de préparer la structure applicative prévue pour le projet EcoTech Suivi Chantier.
+
+Le développement PHP n’a pas encore commencé, car les leçons HTML, CSS, SQL et PHP seront étudiées plus tard dans le planning.
+
+### Travail réalisé
+
+- Création du dossier `public`.
+- Création du dossier `src`.
+- Création des sous-dossiers `config`, `controllers`, `models` et `views`.
+- Préparation des dossiers `storage/documents` et `storage/photos`.
+- Création du fichier `structure-applicative-prevue.md`.
+- Création du fichier `pages-prevues.md`.
+- Création du fichier `preparation-developpement.md`.
+- Mise à jour de la documentation du projet.
+
+### Difficultés rencontrées
+
+La difficulté principale a été de ne pas commencer le développement trop tôt.
+
+J’ai choisi de préparer une structure propre sans copier de code PHP ou HTML que je n’ai pas encore étudié.
+
+### Résultat obtenu
+
+Le projet dispose maintenant d’une arborescence technique claire.
+
+Cette structure servira de base pour le développement futur de l’application, lorsque les notions de développement web auront été étudiées.
+
+### Preuves produites
+
+- `structure-applicative-prevue.md`
+- `pages-prevues.md`
+- `preparation-developpement.md`
+- capture de l’arborescence VS Code
+- capture GitHub
+- commit Git
+
+### Lien avec le BTS SIO
+
+Cette semaine prépare l’épreuve E6 SLAM, car elle organise la future solution applicative avant le développement.
+
+Elle montre aussi une démarche de projet réaliste et progressive.
