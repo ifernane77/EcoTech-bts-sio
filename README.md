@@ -66,3 +66,4 @@ Il pourra aussi alimenter certaines preuves de l’épreuve E5 grâce au context
 | Semaine 5 | Conception du modèle de données : MCD brouillon, MLD brouillon, dictionnaire de données et règles de gestion | Terminé |
 | Semaine 6 | Création des maquettes fonctionnelles : connexion, liste des chantiers, fiche chantier, documents/photos, interventions, rapport PDF et administration utilisateurs | Terminé |
 | Semaine 7 | Préparation de la structure applicative prévue : arborescence, pages prévues, dossiers techniques et préparation du futur développement | Terminé |
+| Semaine 8 | Préparation de la page portfolio EcoTech : contexte entreprise, besoin, périmètre, preuves et script oral | Terminé |

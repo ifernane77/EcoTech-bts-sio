@@ -311,3 +311,50 @@ Cette structure servira de base pour le développement futur de l’application,
 Cette semaine prépare l’épreuve E6 SLAM, car elle organise la future solution applicative avant le développement.
 
 Elle montre aussi une démarche de projet réaliste et progressive.
+
+## Semaine 8 — Préparation de la page portfolio EcoTech
+
+### Objectif de la semaine
+
+L’objectif de cette semaine était de préparer une première page portfolio pour le projet EcoTech Suivi Chantier.
+
+Cette semaine est liée à l’identité professionnelle, au portfolio et à la préparation de l’oral.
+
+### Travail réalisé
+
+- Création du dossier `portfolio`.
+- Création du fichier `presentation-portfolio-ecotech.md`.
+- Création du fichier `preuves-portfolio.md`.
+- Création du fichier `script-oral-ecotech.md`.
+- Résumé du contexte EcoTech.
+- Résumé du besoin métier.
+- Présentation du périmètre du projet.
+- Liste des preuves déjà produites.
+- Préparation d’un court script oral.
+
+### Difficultés rencontrées
+
+La difficulté principale a été de présenter le projet simplement.
+
+J’ai évité d’écrire une présentation trop longue ou trop professionnelle pour garder un niveau réaliste de BTS.
+
+### Résultat obtenu
+
+Le projet dispose maintenant d’une première base pour le portfolio.
+
+Cette page pourra être reprise plus tard dans mon portfolio final avec des captures, des liens GitHub et les preuves importantes.
+
+### Preuves produites
+
+- `portfolio/presentation-portfolio-ecotech.md`
+- `portfolio/preuves-portfolio.md`
+- `portfolio/script-oral-ecotech.md`
+- capture VS Code
+- capture GitHub
+- commit Git
+
+### Lien avec le BTS SIO
+
+Cette semaine prépare le portfolio et l’oral.
+
+Elle permet aussi de relier le projet EcoTech aux compétences E6 SLAM et au stage.
