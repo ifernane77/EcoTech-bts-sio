@@ -358,3 +358,49 @@ Cette page pourra être reprise plus tard dans mon portfolio final avec des capt
 Cette semaine prépare le portfolio et l’oral.
 
 Elle permet aussi de relier le projet EcoTech aux compétences E6 SLAM et au stage.
+
+## Semaine 9 — Documentation utilisateur EcoTech
+
+### Objectif de la semaine
+
+L’objectif de cette semaine était de préparer la documentation utilisateur du projet EcoTech Suivi Chantier.
+
+Cette documentation explique les principales actions prévues dans l’application.
+
+### Travail réalisé
+
+- Création du dossier `documentation-utilisateur`.
+- Création du fichier `guide-utilisateur-ecotech.md`.
+- Préparation des procédures pour créer un chantier.
+- Préparation des procédures pour modifier le statut d’un chantier.
+- Préparation des procédures pour déposer un document.
+- Préparation des procédures pour ajouter une photo.
+- Préparation des procédures pour enregistrer une intervention.
+- Création du fichier `aide-et-incidents-prevus.md`.
+- Préparation des incidents possibles côté utilisateur.
+
+### Difficultés rencontrées
+
+La difficulté principale a été de ne pas écrire comme si l’application était déjà terminée.
+
+J’ai donc rédigé une documentation préparatoire, qui sera mise à jour quand les pages seront réellement développées.
+
+### Résultat obtenu
+
+Le projet dispose maintenant d’une première documentation utilisateur.
+
+Elle servira plus tard à expliquer le fonctionnement de l’application et à préparer les tests utilisateurs.
+
+### Preuves produites
+
+- `documentation-utilisateur/guide-utilisateur-ecotech.md`
+- `documentation-utilisateur/aide-et-incidents-prevus.md`
+- capture du fichier principal
+- capture GitHub ou README
+- commit Git
+
+### Lien avec le BTS SIO
+
+Cette semaine prépare l’épreuve E6 SLAM, car elle documente l’utilisation prévue de la solution applicative.
+
+Elle peut aussi être utile pour E5, car elle prépare une logique d’assistance utilisateur.
